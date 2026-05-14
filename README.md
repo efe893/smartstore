@@ -3,6 +3,11 @@
 ##  Proje Hakkında
 SmartStore; kullanıcıların kayıt olabildiği, giriş yaparak mağazadaki ürünleri görüntüleyebildiği ve stok kontrolü eşliğinde alışveriş yapabildiği bir yazılımdır. [cite_start]Yazılımın temel amacı, teorik OOP bilgilerini (Kalıtım, Kapsülleme vb.) pratik bir yazılım ürününe dönüştürmektir[cite: 4, 5, 20].
 
+## takım üyeleri
+* ibrahim efe keskin
+* alişan tayfur
+* samet aydın
+
 ##  Kullanılan Teknolojiler
 * [cite_start]**Programlama Dili:** Python [cite: 14]
 * **Arayüz Kütüphanesi:** PyQt5
